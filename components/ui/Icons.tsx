@@ -20,7 +20,9 @@ import {
   Lock,
   Tag,
   BarChart3,
-  ArrowRight
+  ArrowRight,
+  Menu,
+  X
 } from 'lucide-react';
 
 export {
@@ -45,5 +47,7 @@ export {
   Lock,
   Tag,
   BarChart3,
-  ArrowRight
+  ArrowRight,
+  Menu,
+  X
 };
