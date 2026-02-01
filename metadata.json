@@ -1,0 +1,5 @@
+{
+  "name": "Dotify",
+  "description": "A SaaS-grade email variation generator that creates dot-separated aliases for Gmail and other providers with enterprise UI/UX.",
+  "requestFramePermissions": []
+}
